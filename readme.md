@@ -1,6 +1,11 @@
 #### 使用方式
+* 分离构建第三方库 `npm run first`
 * 开发方式启动 `npm run dev`
 * 构建生产代码 `npm run build`
+* 快速开始
+    - 1:`npm i(只运行一次)`
+    - 2:`启动01_xxx.cmd(只构建一次)`
+    - 3:`启动02_xxx.cmd`
 
 #### 项目github地址
 * https://github.com/tjx12345/chuanzhi34qi.git
